@@ -11,5 +11,5 @@ function mincost(arr)
 	}
 	console.log(totalCost);
 }
-
-module.exports=mincost;
+let arr=[4, 3, 2, 6];
+mincost(arr);
